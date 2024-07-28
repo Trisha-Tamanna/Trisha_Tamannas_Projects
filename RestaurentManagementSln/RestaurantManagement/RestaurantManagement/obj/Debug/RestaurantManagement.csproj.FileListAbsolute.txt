@@ -1,7 +1,0 @@
-C:\Users\DELL\OneDrive\Desktop\GitProject\C#\withCore\RestaurantManagement\RestaurantManagement\bin\Debug\RestaurantManagement.exe.config
-C:\Users\DELL\OneDrive\Desktop\GitProject\C#\withCore\RestaurantManagement\RestaurantManagement\bin\Debug\RestaurantManagement.exe
-C:\Users\DELL\OneDrive\Desktop\GitProject\C#\withCore\RestaurantManagement\RestaurantManagement\bin\Debug\RestaurantManagement.pdb
-C:\Users\DELL\OneDrive\Desktop\GitProject\C#\withCore\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.csproj.AssemblyReference.cache
-C:\Users\DELL\OneDrive\Desktop\GitProject\C#\withCore\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.csproj.CoreCompileInputs.cache
-C:\Users\DELL\OneDrive\Desktop\GitProject\C#\withCore\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.exe
-C:\Users\DELL\OneDrive\Desktop\GitProject\C#\withCore\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.pdb
